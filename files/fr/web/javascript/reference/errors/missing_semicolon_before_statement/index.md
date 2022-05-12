@@ -88,3 +88,4 @@ function print(info){
 
 - [L'insertion automatique de points-virgules](/fr/docs/Web/JavaScript/Reference/Grammaire_lexicale#Insertion_automatique_de_points-virgules)
 - [Les instructions JavaScript](/fr/docs/Web/JavaScript/Reference/Instructions)
+[link_journal.txt](https://github.com/mdn/translated-content/files/8674880/link_journal.txt)
